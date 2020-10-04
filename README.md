@@ -1,5 +1,5 @@
 # matrix_multiplication_with_thread
-운영체제 과제 5 : matrix끼리 곱하는 프로그램. 계산을 병행적으로 빨리 하기 위해 thread개념을 이용했다.
+matrix끼리 곱하는 프로그램. 계산을 병행적으로 빨리 하기 위해 thread개념을 이용했다.
 
 
 ## 전체 구조 및 사용한 함수
